@@ -9,7 +9,7 @@
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustineSena)
-[My Public Gists](https://gist.github.com/AugustineSena)
+<br>[My Public Gists >>](https://gist.github.com/AugustineSena) 
 
 <!---
 AugustineSena/AugustineSena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
